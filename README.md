@@ -6,6 +6,10 @@ Un projet d'entraînement basé sur un défi **Frontend Mentor**. Une page de pr
 
 ![Screenshot du projet](./screenshot.png)
 
+## 🔗 Démo
+
+[Voir la démo en ligne](https://prince-elie.github.io/frontend-mentor-Sunnyside-landing-page-challenge/)
+
 ## À propos du projet
 
 Ce projet fait partie de mon parcours d'apprentissage via les défis Frontend Mentor. L'objectif est de mettre en pratique les compétences en HTML, CSS et JavaScript en construisant des pages web à partir de designs fournis.
